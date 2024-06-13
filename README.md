@@ -1,10 +1,10 @@
-# Progressive Web Application
+# Turbo (Hotwire) Crash Course - PWA
 
-> Tutorial from Akshay Khot
+> By Akshay Khot
 
 ## Description
 
-Thanks to Akshay Khot online tutorial [here](https://courses.writesoftwarewell.com/courses/hotwire-handbook)
+Thanks to Akshay Khot's for his online tutorial [here](https://courses.writesoftwarewell.com/courses/hotwire-handbook)
 
 ## Built With
 
